@@ -1,7 +1,8 @@
 {
   "projects": {
     "domdrill1": "domdrill1-517e3",
-    "dom-drill-1": "domdrill1-517e3",
-    "default": "domdrill1-517e3"
+    "dom-drill-1": "domdrill1v2",
+    "default": "domdrill1-517e3",
+    ".": "domdrill1v2"
   }
 }
